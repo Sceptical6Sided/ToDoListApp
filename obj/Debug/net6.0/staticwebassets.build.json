@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "c5ZwMczLmiujQ3c/SicJxZSkFjZaGiyDrYyVJrXzFAY=",
+  "Source": "ToDoListApp",
+  "BasePath": "_content/ToDoListApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoListApp\\wwwroot",
+      "Source": "ToDoListApp",
+      "ContentRoot": "E:\\FSharp\\ToDoListApp\\wwwroot\\",
+      "BasePath": "_content/ToDoListApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\FSharp\\ToDoListApp\\wwwroot\\index.html",
+      "SourceId": "ToDoListApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\FSharp\\ToDoListApp\\wwwroot\\",
+      "BasePath": "_content/ToDoListApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
